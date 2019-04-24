@@ -14,3 +14,6 @@ ls - list
 
 clear - clear
 # clears the shell
+
+mkdir - make directory
+# makes a new folder
