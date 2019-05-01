@@ -12,8 +12,14 @@ cd/ - change directory (specified)
 ls - list
 # lists the files/folders in the directory
 
+ls -al - list (all)
+#lists all files/folders in the directory, including hidden files
+
 clear - clear
 # clears the shell
 
 mkdir - make directory
 # makes a new folder
+
+history
+#returns the history of commands entered durring current session
