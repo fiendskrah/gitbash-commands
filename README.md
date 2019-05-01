@@ -23,3 +23,5 @@ mkdir - make directory
 
 history
 # returns the history of commands entered durring current session
+
+added some stuff?
