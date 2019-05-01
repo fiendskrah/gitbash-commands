@@ -1,4 +1,4 @@
-# We will add commands to use in gitbash
+We will add commands to use in gitbash
 
 pwd - present working directory
 # returns the current folder open in the shell
