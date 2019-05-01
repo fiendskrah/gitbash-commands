@@ -1,26 +1,26 @@
 #We will add commands to use in gitbash
 
-##pwd - present working directory
+`pwd` - present working directory
 returns the current folder open in the shell
 
-##cd - change directory
+`cd` - change directory
 moves the pwd to the home directory
 
-##cd/ - change directory (specified)
+`cd` - change directory (specified)
 moves the pwd to the specified directory
 
-##ls - list
+`ls` - list
 lists the files/folders in the directory
 
-##ls -al - list (all)
+`ls -al` - list (all)
 lists all files/folders in the directory, including hidden files
 
-##clear - clear
+`clear` - clear
 clears the shell
 
-##mkdir - make directory
+`mkdir` - make directory
 makes a new folder
 
-##history
+`history`
 returns the history of commands entered durring current session
 
