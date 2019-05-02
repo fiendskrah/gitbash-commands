@@ -22,7 +22,7 @@ clears the shell
 makes a new folder
 
 `history` <br>
-returns the history of commands entered durring current session
+returns the history of commands entered durring current session <br>
 `!(numerical value associated with history command)` <br>
 runs associated command
 
