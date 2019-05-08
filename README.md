@@ -1,4 +1,4 @@
-#We will add commands to use in gitbash
+# We will add commands to use in gitbash
 
 `pwd` - present working directory
 returns the current folder open in the shell
@@ -24,3 +24,5 @@ makes a new folder
 `history`
 returns the history of commands entered durring current session
 
+# git
+This section will illustrate basic git functions
