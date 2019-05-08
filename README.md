@@ -26,7 +26,6 @@ returns the history of commands entered durring current session <br>
 `!(numerical value associated with history command)` <br>
 runs associated command
 
-`git` <br>
-
 # git
+`git` <br>
 This section will illustrate basic git functions
