@@ -1,4 +1,4 @@
-#We will add commands to use in gitbash
+# This is a reference sheet of commands to use in gitbash
 
 `pwd` - present working directory <br>
 returns the current folder open in the shell
@@ -24,7 +24,10 @@ makes a new folder
 `history` <br>
 returns the history of commands entered durring current session <br>
 `!(numerical value associated with history command)` <br>
-runs associated command
+->runs associated command
 
-`git` <br>
+# `git` 
 
+# Check RAM details
+`wmic MemoryChip get BankLabel, Capacity, MemoryType, TypeDetail, Speed, Tag`<br>
+returns details about RAM cards. 'MemoryType' contains data on type (DDR2, DDR3, etc).
