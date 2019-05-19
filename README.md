@@ -26,8 +26,12 @@ returns the history of commands entered durring current session <br>
 `!(numerical value associated with history command)` <br>
 ->runs associated command
 
+
 # `git` 
 
 # Check RAM details
 `wmic MemoryChip get BankLabel, Capacity, MemoryType, TypeDetail, Speed, Tag`<br>
 returns details about RAM cards. 'MemoryType' contains data on type (DDR2, DDR3, etc).
+
+
+
