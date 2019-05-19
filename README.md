@@ -32,6 +32,32 @@ returns the history of commands entered durring current session <br>
 # Check RAM details
 `wmic MemoryChip get BankLabel, Capacity, MemoryType, TypeDetail, Speed, Tag`<br>
 returns details about RAM cards. 'MemoryType' contains data on type (DDR2, DDR3, etc).
+Corresponding MemoryType codes
 
+0 = Unknown (May be DDR4, unknown to WMIC)
+1 = Other
+2 = DRAM
+3 = Synchronous DRAM
+4 = Cache DRAM
+5 = EDO
+6 = EDRAM
+7 = VRAM
+8 = SRAM
+9 = RAM
+10 = ROM
+11 = Flash
+12 = EEPROM
+13 = FEPROM
+14 = EPROM
+15 = CDRAM
+16 = 3DRAM
+17 = SDRAM
+18 = SGRAM
+19 = RDRAM
+20 = DDR
+21 = DDR2
+22 = DDR2 FB-DIMM
+24 = DDR3—May not be available; see note above.
+25 = FBD2
 
 
